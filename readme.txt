@@ -1,6 +1,6 @@
 This is the code for my senior design project that I worked on with two other classmates. In a single sentence, we created a bike lock that can be electronically locked and unlocked using a smartphone or a RFID card. The code that I have provided involves the communication between an Arduino and a Raspberry Pi. The Arduino serves to receive a phone signal and send signals to a motor, locking or unlocking it. The Raspberry Pi acts as a server and a database that stores the lock state of every lock.
 
-My code sample contains two files:
+There are two files:
 
 arduino.ino
 raspberrypi.py
